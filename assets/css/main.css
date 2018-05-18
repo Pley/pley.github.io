@@ -1780,6 +1780,72 @@
 			padding-left: 0.25em;
 		}
 
+
+/* MI LISTA PORTAFOLIO TOHALINO */
+
+	ul.default2 {
+		
+		margin: 0;
+    	padding: 0;
+    	overflow: hidden;
+	}
+
+		ul.default2 li {
+			float: left;
+			padding-left: 0.5em;
+
+		}
+
+
+	ul.icons2 {
+		cursor: default;
+	}
+
+		ul.icons2 li {
+			display:inline;
+			width: 2em;
+			height: 2em;
+			line-height: 2em;
+			text-align: center;
+			border: 0;
+		}
+
+		/*ul.icons a {
+			display: inline-block;
+			width: 2em;
+			height: 2em;
+			line-height: 2em;
+			text-align: center;
+			border: 0;
+		}
+
+		*/
+
+		.cajita{
+			
+			background-color: #003366;
+			display: block;
+			width: 200px;
+			float: left;
+
+		}
+
+
+		.cajita2{
+			background-color: #666;
+			display: inline-block;
+			width: 70%;
+			float: left;
+			text-align: left;
+
+		}
+
+		.patito{
+			background-image: url("../../images/pic02.jpg");
+		}
+
+/* TERMINA MI LISTA PORTAFOLIO TOHALINO */
+
 /* Form */
 
 	form label {
